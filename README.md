@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/w48J2nN/Laptop-screen-psd-mockup-on-gray-background.jpg" width="100%" height="100%"/>
+<img src="https://i.ibb.co/w48J2nN/Laptop-screen-psd-mockup-on-gray-background.jpg" width="100%" height="400px"/>
 <h2>TFC Food 360</h2>
 <ul>
   <li>HTML</li>
