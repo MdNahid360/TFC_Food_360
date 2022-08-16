@@ -3,7 +3,7 @@
 <ul>
   <li>HTML</li>
   <li>CSS</li>
-  <li>VBOOTSTRAP</li>
+  <li>BOOTSTRAP</li>
   <li>JAVASCRIPT</li>
 </ul>
 Live View :<a href="https://objective-lamport-44b8b5.netlify.app/?"> https://objective-lamport-44b8b5.netlify.app/? </a>
